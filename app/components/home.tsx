@@ -629,7 +629,7 @@ export function Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ChatGPT Next</div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant.
+            Engine Six AI Assistant
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
